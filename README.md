@@ -1,2 +1,2 @@
 # javascript
-basic javascript assignments for a quick revision lol
+basic javascript assignments for a quick revision 
